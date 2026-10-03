@@ -1,0 +1,8 @@
+{
+  "name": "Samantha Food - Restaurant & Traiteur Douala",
+  "description": "Application officielle de Samantha Food à Douala : Okok Salé du terroir, spécialités camerounaises, cuisine internationale, grillades et livraison express.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
